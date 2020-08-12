@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca5f768c-379f-4c86-9564-e712225c92db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/awesomeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/concurentengine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/simpleengine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fetcher/fetch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/bookdetail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse/booklist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse/parsebookdetail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parse/parsetag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/queuescheduler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/simplescheduler.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fwjyLTdjrFWUn68fB2kHS4Ac13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build awesomeProject">
+    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test/main.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeProject" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="440" key="FileChooserDialogImpl" timestamp="1597219002016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1597219002016" />
+    <state x="1131" y="597" key="Github.ShareDialog" timestamp="1597246562928">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1131" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597246562928" />
+    <state x="1085" y="393" key="Github.UntrackedFilesDialog" timestamp="1597246607611">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="393" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597246607611" />
+    <state width="2517" height="442" key="GridCell.Tab.0.bottom" timestamp="1597246633995">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="442" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597246633995" />
+    <state width="2517" height="442" key="GridCell.Tab.0.center" timestamp="1597246633995">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="442" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597246633995" />
+    <state width="2517" height="442" key="GridCell.Tab.0.left" timestamp="1597246633995">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="442" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597246633995" />
+    <state width="2517" height="442" key="GridCell.Tab.0.right" timestamp="1597246633995">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="442" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597246633995" />
+    <state x="1075" y="419" key="RollbackChangesDialog" timestamp="1597233676952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1075" y="419" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597233676952" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1597155230181">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1597155230181" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1597218337510">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1597218337510" />
+  </component>
+</project>
