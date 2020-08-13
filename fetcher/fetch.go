@@ -33,7 +33,7 @@ func BaseFetch(url string) ([]byte, error) {
 	return ioutil.ReadAll(utf8Reader)
 }
 
-var ratelimit = time.Tick(2000 * time.Millisecond)
+var ratelimit = time.Tick(100 * time.Millisecond)
 
 func WebFetch(url string) ([]byte, error) {
 	<-ratelimit
